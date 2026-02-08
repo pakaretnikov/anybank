@@ -1,0 +1,132 @@
+[
+  {
+    "bankId": "gpb",
+    "bankName": "Газпромбанк",
+    "name": "Вклад «Новые деньги»",
+    "rateText": "до 15,1% годовых",
+    "termText": "2–36 месяцев",
+    "minAmountText": "от 10 000 ₽",
+    "urlQuery": "Вклад Новые деньги",
+    "type": "deposit"
+  },
+  {
+    "bankId": "gpb",
+    "bankName": "Газпромбанк",
+    "name": "Вклад «Перспективные сбережения»",
+    "rateText": "до 18,5% годовых",
+    "termText": "программа долгосрочных сбережений",
+    "minAmountText": "уточняйте на сайте",
+    "urlQuery": "Вклад Перспективные сбережения",
+    "type": "deposit"
+  },
+  {
+    "bankId": "gpb",
+    "bankName": "Газпромбанк",
+    "name": "Накопительный счёт",
+    "rateText": "до 16,2% годовых",
+    "termText": "пополнение и снятие",
+    "minAmountText": "от 1 ₽",
+    "urlQuery": "Накопительный счет",
+    "type": "savingsAccount"
+  },
+  {
+    "bankId": "gpb",
+    "bankName": "Газпромбанк",
+    "name": "Накопительный счёт «Лёгкий процент»",
+    "rateText": "ставка по условиям",
+    "termText": "проценты ежедневно",
+    "minAmountText": "от 1 ₽",
+    "urlQuery": "Накопительный счет Легкий процент",
+    "type": "savingsAccount"
+  },
+  {
+    "bankId": "gpb",
+    "bankName": "Газпромбанк",
+    "name": "Накопительный счёт «Ежедневный процент»",
+    "rateText": "ставка по условиям",
+    "termText": "ежедневное начисление",
+    "minAmountText": "от 1 ₽",
+    "urlQuery": "Накопительный счет Ежедневный процент",
+    "type": "savingsAccount"
+  },
+  {
+    "bankId": "gpb",
+    "bankName": "Газпромбанк",
+    "name": "Вклад «Ключевой момент»",
+    "rateText": "ставка по условиям",
+    "termText": "фиксированная ставка",
+    "minAmountText": "от 10 000 ₽",
+    "urlQuery": "Вклад Ключевой момент",
+    "type": "deposit"
+  },
+  {
+    "bankId": "gpb",
+    "bankName": "Газпромбанк",
+    "name": "Вклад «Копить»",
+    "rateText": "ставка по условиям",
+    "termText": "фиксированная ставка",
+    "minAmountText": "от 10 000 ₽",
+    "urlQuery": "Вклад Копить",
+    "type": "deposit"
+  },
+  {
+    "bankId": "gpb",
+    "bankName": "Газпромбанк",
+    "name": "Вклад «В Плюсе»",
+    "rateText": "ставка по условиям",
+    "termText": "доп. условия для клиентов",
+    "minAmountText": "от 10 000 ₽",
+    "urlQuery": "Вклад В Плюсе",
+    "type": "deposit"
+  },
+  {
+    "bankId": "gpb",
+    "bankName": "Газпромбанк",
+    "name": "Вклад в юанях",
+    "rateText": "ставка по условиям",
+    "termText": "валютный вклад",
+    "minAmountText": "от 100 ¥",
+    "urlQuery": "Вклад в юанях",
+    "type": "deposit"
+  },
+  {
+    "bankId": "gpb",
+    "bankName": "Газпромбанк",
+    "name": "Социальный вклад",
+    "rateText": "ставка по условиям",
+    "termText": "социальные программы",
+    "minAmountText": "по условиям банка",
+    "urlQuery": "Социальный вклад",
+    "type": "deposit"
+  },
+  {
+    "bankId": "tbank",
+    "bankName": "Т-Банк",
+    "name": "Вклад Т‑Банк (непополняемый)",
+    "rateText": "до 14,56% годовых",
+    "termText": "6 месяцев",
+    "minAmountText": "по условиям банка",
+    "urlQuery": "вклад 6 месяцев",
+    "type": "deposit"
+  },
+  {
+    "bankId": "tbank",
+    "bankName": "Т-Банк",
+    "name": "Вклад Т‑Банк",
+    "rateText": "ставка по условиям",
+    "termText": "пополнение/частичное изъятие",
+    "minAmountText": "по условиям банка",
+    "urlQuery": "вклады",
+    "type": "deposit"
+  },
+  {
+    "bankId": "tbank",
+    "bankName": "Т-Банк",
+    "name": "Накопительный счёт Т‑Банк",
+    "rateText": "ставка по условиям",
+    "termText": "свободное пополнение и снятие",
+    "minAmountText": "по условиям банка",
+    "urlQuery": "накопительный счет",
+    "type": "savingsAccount"
+  }
+]
