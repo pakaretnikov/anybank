@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../core/theme/app_theme.dart';
+import '../features/bank_hub/presentation/bank_hub_page.dart';
 
 class AnyBankApp extends StatelessWidget {
   const AnyBankApp({super.key});
@@ -10,7 +11,7 @@ class AnyBankApp extends StatelessWidget {
     return MaterialApp(
       title: 'AnyBank',
       theme: AppTheme.light,
-      home: const Placeholder(),
+      home: const BankHubPage(),
     );
   }
 }
